@@ -16,7 +16,7 @@ An Open-Source Tool for AI-Assisted and Manual Annotation of 3D MRI DICOM with F
 
 1. **Download the Installer**:  
    Download the latest **DicomDoodle** installer for Windows (.exe) using the link:
-   [Download DicomDoodle Installer](https://indianinstituteofscience-my.sharepoint.com/:u:/g/personal/pushpl_iisc_ac_in/IQCf7Q6vilQzRauJlPr4DXPoAaL_EkOgOg6VZsLbF88rZcc?e=BeccvT)
+   [Download DicomDoodle Installer](https://indianinstituteofscience-my.sharepoint.com/:u:/g/personal/pushpl_iisc_ac_in/IQCf7Q6vilQzRauJlPr4DXPoAaL_EkOgOg6VZsLbF88rZcc?e=Ecwo8a)
 
 2. **Run the Installer**:  
    Once the installer is downloaded, double-click on the `.exe` file to start the installation process.
