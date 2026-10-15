@@ -1,6 +1,5 @@
 # Brain AVM and AI: Technical Review
 
-Oct 14, 2026 · @joe
 
 ## Scope and verification
 
